@@ -1,3 +1,3 @@
 # Compre já
 
-![Resume cv](/)
+![Resume cv](/Home.png)
