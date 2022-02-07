@@ -12,7 +12,7 @@
 body {
 
     font-size: 100%;
-    background: linear-gradient();
+    background: linear-gradient(243.18deg, #7462E9 3.95%, #00154E 100%);
 
 }
 
@@ -20,7 +20,7 @@ body {
 
     display: flex;
     flex-direction: row;
-    align-items: center
+    align-items: center;
     justify-content: space-around;
     padding: 24px;
 
@@ -41,7 +41,7 @@ body {
 
 .cab-menu-item {
 
-    font-family: 'Rowdies';
+    font-family: 'Rowdies', cursive;
     color: #C3BFF8;
     font-weight: 400;
     font-size: 18px;
@@ -51,7 +51,7 @@ body {
 .cont {
 
     margin-bottom: 48px;
-    border-top: 00.4px solid #C3BFF8;
+    border-top: 0.4px solid #C3BFF8;
 
 }
 
@@ -80,7 +80,7 @@ body {
 
 .cont-princ-escrito-titu {
 
-    font-family: Rowdies;
+    font-family: 'Rowdies', cursive;
     font-weight: 400;
     font-size: 64px;
     color: #C3BFF8;
@@ -89,7 +89,7 @@ body {
 
 .cont-princ-escrito-subti {
 
-    font-family: Gabriela;
+    font-family: 'Gabriela', serif;
     font-weight: 400;
     font-size: 24px;
     color: #C3BFF8;
@@ -104,7 +104,7 @@ body {
     border: none;
     box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
     border-radius: 20px;
-    font-family: Gabriela;
+    font-family: 'Gabriela', serif;
     font-weight: 400;
     font-size: 24px;
     color: #000000;
