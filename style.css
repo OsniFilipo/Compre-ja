@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabriela&family=Righteous&family=Rowdies&family=Sarala:wght@400;700&display=swap" rel="stylesheet');
+
+# {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+body {
+
+    font-size: 100%;
+    background: linear-gradient();
+
+}
+
+.cab {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center
+    justify-content: space-around;
+    padding: 24px;
+
+}
+
+.cab-imag {
+
+    height: 72px;
+
+}
+
+.cab-menu {
+
+    display: flex;
+    gap: 32px;
+
+}
+
+.cab-menu-item {
+
+    font-family: 'Rowdies';
+    color: #C3BFF8;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.cont {
+
+    margin-bottom: 48px;
+    border-top: 00.4px solid #C3BFF8;
+
+}
+
+.cont-princ {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.cont-princ-imag {
+
+    height: 430px;
+
+}
+
+.cont-princ-escrito {
+
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+
+}
+
+.cont-princ-escrito-titu {
+
+    font-family: Rowdies;
+    font-weight: 400;
+    font-size: 64px;
+    color: #C3BFF8;
+
+}
+
+.cont-princ-escrito-subti {
+
+    font-family: Gabriela;
+    font-weight: 400;
+    font-size: 24px;
+    color: #C3BFF8;
+
+}
+
+.cont-princ-escrito-botao {
+
+    background-color : #C3BFF8;    ;
+    width: 180px;
+    border: 60px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    font-family: Gabriela;
+    font-weight: 400;
+    font-size: 24px;
+    color: #000000;
+
+}
+
+.cont-princ-escrito-botao {
+
+    background-color: rgba(236,214,196,0.53);
+
+}
+
+.rod {
+
+    padding: 32px;
+    background-color : #C3BFF8;
+
+}
+
+.rod-imag {
+
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+
+}
