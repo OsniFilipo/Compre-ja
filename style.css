@@ -9,10 +9,24 @@
 
 }
 
+/* esta mudança faz o efeito ser na tela toda */
+
+html {
+
+    width: 100vw;
+    height: 100vh;
+    font-size: 62.5%;
+
+}
+
 body {
 
     font-size: 100%;
     background: linear-gradient(243.18deg, #7462E9 3.95%, #00154E 100%);
+    background-position: center center;
+    background-size: cover;
+    background-position-y: 0px;
+    
 
 }
 
