@@ -64,12 +64,6 @@ body {
 
 }
 
-.cont-princ-imag {
-
-    height: 430px;
-
-}
-
 .cont-princ-escrito {
 
     display: flex;
@@ -114,6 +108,12 @@ body {
 .cont-princ-escrito-botao {
 
     background-color: rgba(236,214,196,0.53);
+
+}
+
+.cont-princ-imag {
+
+    height: 430px;
 
 }
 
